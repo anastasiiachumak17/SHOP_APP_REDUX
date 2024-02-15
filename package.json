@@ -1,7 +1,7 @@
 {
   "name": "delivery-app",
   "version": "0.1.0",
-  "homepage": "https://anastasiiachumak17.github.io/Shop_App_Redux`",
+  "homepage": "https://anastasiiachumak17.github.io/Shop_App_Redux",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.1.0",
