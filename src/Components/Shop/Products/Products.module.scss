@@ -1,0 +1,19 @@
+.Products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.sortButtons {
+  display: flex;
+  flex-wrap: wrap;
+ justify-content: flex-end;
+  padding: 10px;
+}
+.sortButtons span {
+  margin: 10px;
+  color: darkviolet;
+  cursor: pointer;
+}
+.sortButtons span:hover {
+font-size: 18px;
+}

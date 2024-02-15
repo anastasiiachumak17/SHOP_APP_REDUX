@@ -1,0 +1,46 @@
+.Shop {
+  display: flex;
+  padding: 20px;
+  height: 90vh;
+  box-sizing: border-box;
+  background: plum;
+
+
+  nav {
+    width:20%;
+    padding: 20px;
+    background-color: blueviolet;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-right: 20px;
+    box-sizing: border-box;
+    color: white;
+
+
+    a {
+      display: flex;
+      padding: 10px 20px;
+      border-radius: 10px;
+      text-decoration: none;
+      cursor: pointer;
+      transition: background-color 0.2s, color 0.2s;
+      margin-bottom: 10px;
+      background-color: plum;
+      color: white;
+
+      &:hover {
+        background-color:pink;
+        color: #fff;
+      }
+    }
+  }
+
+  .ShopProducts {
+    background: floralwhite;
+    width: 75%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: auto;
+  }
+}

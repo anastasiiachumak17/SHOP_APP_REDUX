@@ -1,0 +1,11 @@
+.ProductCart {
+  padding: 60px;
+  display: flex;
+  justify-content: center;
+  .description {
+    margin: 0 0 0 50px;
+  }
+  img {
+    width: 40%;
+  }
+}

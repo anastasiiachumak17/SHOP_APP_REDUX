@@ -1,0 +1,31 @@
+.ProductInCart {
+  display: flex;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 10px;
+  img {
+    width: 100px;
+    margin: 20px;
+  }
+    button {
+      margin: 0 0 20px 0;
+      background: blueviolet;
+      border: 1px solid blueviolet;
+      border-radius: 5px;
+      height: 40px;
+      width: 120px;
+      color: white;
+    }
+    button:hover {
+      background: darkviolet;
+      color: white;
+    }
+  }
+input{
+  border: 1px solid black;
+  height: 35px;
+  width: 90px;
+  border-radius: 5px;
+  margin-right: 10px;
+}

@@ -1,0 +1,52 @@
+
+.App {;
+  background: plum;
+  header {
+    padding: 10px;
+    display: flex;
+    height: 10vh;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: flex-end;
+    transition: justify-content 0.5s;
+    a {
+      display: flex;
+      width: 200px;
+      padding: 20px;
+      background-color: blueviolet;
+      justify-content: center;
+      text-decoration: none;
+      margin: 0 30px 0 30px;
+      color: white; /* Білий колір тексту */
+      border-radius: 10px;
+      transition: background-color 0.2s, color 0.2s;
+      &:hover {
+        background-color: darkviolet;
+        color: black;
+      }
+    }
+    .cartIcon {
+      position: relative;
+      img {
+        width: 50px;
+        height: 50px;
+        margin-right: 10px;
+        margin-left: 10px;
+      }
+      span {
+        position: absolute;
+        top: -5px;
+        right: -5px;
+        background-color: blueviolet;
+        color: white;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+      }
+    }
+  }
+}

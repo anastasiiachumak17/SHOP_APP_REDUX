@@ -1,0 +1,45 @@
+.Product {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 25%;
+  padding: 30px;
+  border: 3px solid plum;
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3);
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.3));
+  border-radius: 10px;
+  margin: 0 0 30px 0;
+  align-items: center;
+  background: white;
+    div {
+      height: 80%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      img {
+        width: 70%;
+        border-radius: 5px;
+      }
+    }
+
+    h3 {
+      margin: 10px;
+      text-align: center;
+    }
+
+    button {
+      margin: 0 0 20px 0;
+      background: blueviolet;
+      border: 1px solid blueviolet;
+      border-radius: 5px;
+      height: 60px;
+      width: 150px;
+      color: white;
+    }
+
+    button:hover {
+      background: darkviolet;
+      color: white;
+    }
+}
