@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Shop_App_Redux/static/css/main.a1f2a12a.css",
-    "main.js": "/Shop_App_Redux/static/js/main.10cb35b8.js",
-    "static/media/preloader.gif": "/Shop_App_Redux/static/media/preloader.50cd34121c8f8ec54e1b.gif",
-    "static/media/Cart_sign.png": "/Shop_App_Redux/static/media/Cart_sign.6d29ec9f15389b77c3af.png",
-    "index.html": "/Shop_App_Redux/index.html",
-    "main.a1f2a12a.css.map": "/Shop_App_Redux/static/css/main.a1f2a12a.css.map",
-    "main.10cb35b8.js.map": "/Shop_App_Redux/static/js/main.10cb35b8.js.map"
+    "main.css": "/SHOP_APP_REDUX/static/css/main.a1f2a12a.css",
+    "main.js": "/SHOP_APP_REDUX/static/js/main.e0941663.js",
+    "static/media/preloader.gif": "/SHOP_APP_REDUX/static/media/preloader.50cd34121c8f8ec54e1b.gif",
+    "static/media/Cart_sign.png": "/SHOP_APP_REDUX/static/media/Cart_sign.6d29ec9f15389b77c3af.png",
+    "index.html": "/SHOP_APP_REDUX/index.html",
+    "main.a1f2a12a.css.map": "/SHOP_APP_REDUX/static/css/main.a1f2a12a.css.map",
+    "main.e0941663.js.map": "/SHOP_APP_REDUX/static/js/main.e0941663.js.map"
   },
   "entrypoints": [
     "static/css/main.a1f2a12a.css",
-    "static/js/main.10cb35b8.js"
+    "static/js/main.e0941663.js"
   ]
 }
