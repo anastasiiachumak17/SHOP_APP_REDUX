@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shop_App_Redux%60/static/css/main.a1f2a12a.css",
+    "main.js": "/Shop_App_Redux%60/static/js/main.de9911da.js",
+    "static/media/preloader.gif": "/Shop_App_Redux%60/static/media/preloader.50cd34121c8f8ec54e1b.gif",
+    "static/media/Cart_sign.png": "/Shop_App_Redux%60/static/media/Cart_sign.6d29ec9f15389b77c3af.png",
+    "index.html": "/Shop_App_Redux%60/index.html",
+    "main.a1f2a12a.css.map": "/Shop_App_Redux%60/static/css/main.a1f2a12a.css.map",
+    "main.de9911da.js.map": "/Shop_App_Redux%60/static/js/main.de9911da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1f2a12a.css",
+    "static/js/main.de9911da.js"
+  ]
+}
