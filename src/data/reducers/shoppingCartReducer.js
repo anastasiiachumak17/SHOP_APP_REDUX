@@ -46,10 +46,10 @@ const shoppingCartSlice = createSlice({
                     reviewForOrder: state.reviewForOrder
                 })
                     .then(response => {
-                        // handle success if needed
+        
                     })
                     .catch(error => {
-                        // handle error if needed
+                       
                     });
             } else {
                 state.error = 'Empty cart';
