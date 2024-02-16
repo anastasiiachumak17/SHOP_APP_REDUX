@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { submitOrder } from '../../data/reducers/shoppingCartReducer'; // Замініть на шлях до вашого файлу Redux slice
+import { submitOrder } from '../../data/reducers/shoppingCartReducer'; 
 import s from './ShoppingCart.module.scss';
 import ProductInCart from './ProductInCart/ProductInCart';
 
